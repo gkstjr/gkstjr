@@ -12,6 +12,5 @@
 
 <br>
 
-![hanseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkstjr&show_icons=true&theme=tokyonight)
 
 * Blog : [https://www.github.com](https://hsdevstudy.tistory.com/)https://hsdevstudy.tistory.com/
