@@ -12,6 +12,7 @@
 
 <br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkstjr8541)](https://solved.ac/gkstjr8541/)
 
+<br>
 * Blog : [https://www.github.com](https://hsdevstudy.tistory.com/)https://hsdevstudy.tistory.com/
-* [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkstjr8541)](https://solved.ac/gkstjr8541/)
