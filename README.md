@@ -14,7 +14,7 @@
 
 <!--
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkstjr&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkstjr&show_icons=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkstjr8541)](https://solved.ac/gkstjr8541/)
 
